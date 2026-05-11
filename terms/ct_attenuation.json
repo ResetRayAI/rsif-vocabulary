@@ -1,0 +1,32 @@
+{
+  "id": "ct_attenuation",
+  "term_en": "CT attenuation",
+  "term_ru": "КТ-аттенуация",
+
+  "definition_en": "A quantitative CT parameter describing X-ray attenuation expressed in Hounsfield Units.",
+  "definition_ru": "Количественный КТ-параметр, описывающий ослабление рентгеновского излучения в единицах HU.",
+
+  "aliases_en": [
+    "attenuation",
+    "xray_attenuation"
+  ],
+
+  "aliases_ru": [
+    "рентгеновская плотность"
+  ],
+
+  "related_terms": [
+    "hounsfield_units",
+    "roi",
+    "quantitative_ct"
+  ],
+
+  "scope": "technical_imaging",
+
+  "not_intended_for": [
+    "diagnosis",
+    "disease_classification",
+    "treatment_recommendation",
+    "clinical_decision_support"
+  ]
+}
