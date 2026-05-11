@@ -1,0 +1,27 @@
+{
+  "id": "roi",
+  "term_en": "Region of Interest",
+  "term_ru": "Область интереса",
+
+  "definition_en": "A selected image region used for quantitative technical measurement.",
+  "definition_ru": "Выбранная область изображения для количественного технического измерения.",
+
+  "aliases_en": [
+    "ROI"
+  ],
+
+  "aliases_ru": [
+    "ROI"
+  ],
+
+  "related_terms": [
+    "ct_attenuation",
+    "quantitative_ct"
+  ],
+
+  "scope": "technical_measurement",
+
+  "not_intended_for": [
+    "standalone_clinical_conclusion"
+  ]
+}
