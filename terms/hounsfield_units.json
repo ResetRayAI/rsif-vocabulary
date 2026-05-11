@@ -1,0 +1,22 @@
+{
+  "id": "hounsfield_units",
+  "term_en": "Hounsfield Units",
+  "term_ru": "Единицы Хаунсфилда",
+
+  "definition_en": "A quantitative CT scale used to represent attenuation values.",
+  "definition_ru": "Количественная шкала КТ, используемая для представления значений аттенуации.",
+
+  "aliases_en": [
+    "HU"
+  ],
+
+  "aliases_ru": [
+    "HU"
+  ],
+
+  "related_terms": [
+    "ct_attenuation"
+  ],
+
+  "scope": "technical_imaging"
+}
