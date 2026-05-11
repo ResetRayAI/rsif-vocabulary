@@ -1,0 +1,16 @@
+{
+  "term_id": "ct_attenuation",
+  "language": "bilingual",
+
+  "card": {
+    "en": {
+      "term": "CT attenuation",
+      "definition": "A quantitative CT parameter describing X-ray attenuation."
+    },
+
+    "ru": {
+      "term": "КТ-аттенуация",
+      "definition": "Количественный параметр ослабления рентгеновского излучения."
+    }
+  }
+}
