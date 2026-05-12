@@ -1,0 +1,79 @@
+{
+  "@context": "https://docs.resetray.ru/vocabulary/context.jsonld",
+  "@graph": [
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/RSIF",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "RSIF",
+      "schema:description": "ResetRay Structured Imaging Format — structured technical representation of quantitative CT/DICOM parameters."
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/L1_HU",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "L1_HU",
+      "schema:description": "Mean trabecular attenuation measured within the L1 vertebral body ROI.",
+      "unit": "HU",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/L2_HU",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "L2_HU",
+      "schema:description": "Mean trabecular attenuation measured within the L2 vertebral body ROI.",
+      "unit": "HU",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/TH12_HU",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "TH12_HU",
+      "schema:description": "Optional thoracic vertebral attenuation parameter measured within the Th12 vertebral body ROI.",
+      "unit": "HU",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/LIVER_HU",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "LIVER_HU",
+      "schema:description": "Mean attenuation measured within hepatic parenchymal ROI.",
+      "unit": "HU",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/SPLEEN_HU",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "SPLEEN_HU",
+      "schema:description": "Mean attenuation measured within splenic parenchymal ROI.",
+      "unit": "HU",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/LIVER_SPLEEN_DIFF",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "LIVER_SPLEEN_DIFF",
+      "schema:description": "Difference between liver attenuation and spleen attenuation.",
+      "unit": "HU",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/LIVER_SPLEEN_RATIO",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "LIVER_SPLEEN_RATIO",
+      "schema:description": "Ratio between liver attenuation and spleen attenuation.",
+      "unit": "ratio",
+      "modality": "CT"
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/ROI",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "ROI",
+      "schema:description": "Region of interest used for quantitative attenuation extraction."
+    },
+    {
+      "@id": "https://docs.resetray.ru/vocabulary/HU",
+      "@type": "schema:DefinedTerm",
+      "schema:name": "HU",
+      "schema:description": "Hounsfield Unit — quantitative CT attenuation unit."
+    }
+  ]
+}
