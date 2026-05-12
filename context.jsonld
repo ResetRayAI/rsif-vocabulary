@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "rr": "https://docs.resetray.ru/vocabulary/",
+    "schema": "https://schema.org/",
+
+    "RSIF": "rr:RSIF",
+    "CTStudy": "rr:CTStudy",
+    "ROI": "rr:ROI",
+    "HU": "rr:HU",
+
+    "L1_HU": "rr:L1_HU",
+    "L2_HU": "rr:L2_HU",
+    "TH12_HU": "rr:TH12_HU",
+
+    "LIVER_HU": "rr:LIVER_HU",
+    "SPLEEN_HU": "rr:SPLEEN_HU",
+    "LIVER_SPLEEN_DIFF": "rr:LIVER_SPLEEN_DIFF",
+    "LIVER_SPLEEN_RATIO": "rr:LIVER_SPLEEN_RATIO",
+
+    "value": "schema:value",
+    "unit": "schema:unitText",
+    "method": "rr:method",
+    "modality": "rr:modality",
+    "roi_type": "rr:roi_type",
+    "body_region": "rr:body_region",
+    "analysis_type": "rr:analysis_type",
+    "technical_analysis_only": "rr:technical_analysis_only",
+    "medical_diagnosis": "rr:medical_diagnosis",
+    "clinical_decision_support": "rr:clinical_decision_support"
+  }
+}
