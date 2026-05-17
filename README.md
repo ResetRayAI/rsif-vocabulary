@@ -71,7 +71,7 @@ These files provide semantic mappings for:
 
 # Canonical JSON-LD Context
 
-https://docs.resetray.ru/vocabulary/context.jsonld
+https://docs.resetray.com/vocabulary/context.jsonld
 
 ---
 
@@ -208,36 +208,25 @@ This repository is part of the public ResetRay semantic imaging ecosystem.
 
 Documentation layer:
 
-https://docs.resetray.ru
+https://docs.resetray.com/
 
 Vocabulary documentation:
 
-https://docs.resetray.ru/vocabulary/
+https://docs.resetray.com/vocabulary/context.jsonld
 
-Opportunistic CT spine analysis:
+RSIF documentation:
 
-https://docs.resetray.ru/opportunistic-ct-spine/
+https://docs.resetray.com/rsif/
 
-Opportunistic CT liver analysis:
+LLMs:
 
-https://docs.resetray.ru/opportunistic-ct-liver/
-
-Canonical documentation:
-
-https://docs.resetray.ru
-
-Semantic ecosystem:
-
-https://docs.resetray.ru/ecosystem/
-
+https://docs.resetray.com/llms.txt
 
 ---
 
-# Links
+# Doctrine
 
-RU: https://resetray.ru
-
-COM: https://resetray.com
+quantitative observations ≠ medical conclusions
 
 ---
 
